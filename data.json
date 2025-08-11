@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "fecha_nacimiento": "1950-05-10",
+        "padres": [],
+        "hijos": [
+            2
+        ],
+        "descripcion": "Le gustaba pescar.",
+        "x": -100,
+        "y": 0
+    },
+    {
+        "id": 2,
+        "nombre": "María Pérez",
+        "fecha_nacimiento": "1980-02-15",
+        "padres": [
+            1
+        ],
+        "hijos": [
+            3
+        ],
+        "descripcion": "Aficionada a la pintura.",
+        "x": 0,
+        "y": 200
+    },
+    {
+        "id": 3,
+        "nombre": "Pedro Pérez",
+        "fecha_nacimiento": "2010-08-12",
+        "padres": [
+            2
+        ],
+        "hijos": [],
+        "descripcion": "Le encanta dibujar.",
+        "x": 100,
+        "y": 400
+    }
+]
