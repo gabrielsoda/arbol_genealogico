@@ -1,0 +1,1 @@
+Aplicación para generar y administrar un árbol genealógico

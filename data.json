@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "nombre": "Juan Pérez",
+        "nombre": "Ernesto Rafael Soda",
         "fecha_nacimiento": "1950-05-10",
         "padres": [],
         "hijos": [
             2
         ],
-        "descripcion": "Le gustaba pescar.",
+        "descripcion": "El humano más bueno.",
         "x": -100,
         "y": 0
     },
     {
         "id": 2,
-        "nombre": "María Pérez",
+        "nombre": "Irene María Juana Soda",
         "fecha_nacimiento": "1980-02-15",
         "padres": [
             1
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "nombre": "Pedro Pérez",
+        "nombre": "Digna Susana Antonia Soda",
         "fecha_nacimiento": "2010-08-12",
         "padres": [
             2
@@ -36,5 +36,29 @@
         "descripcion": "Le encanta dibujar.",
         "x": 100,
         "y": 400
+    },
+        {
+        "id": 4,
+        "nombre": "Diolinda Margarita Soda",
+        "fecha_nacimiento": "2010-08-12",
+        "padres": [
+            2
+        ],
+        "hijos": [],
+        "descripcion": "Le encanta dibujar.",
+        "x": 100,
+        "y": 400
+    },
+    {
+        "id": 5,
+        "nombre": "Hugo Pablo Ángel Soda",
+        "fecha_nacimiento": "1975-03-20",
+        "padres": [
+            1
+        ],
+        "hijos": [],
+        "descripcion": "Aficionado a la música.",
+        "x": -200,
+        "y": 100
     }
 ]
